@@ -1,0 +1,153 @@
+Analyst,Sample ID,Labelled As,Actual Identity,Identified As,Suspicious Because of Lanes,Starch Present?,PAD #,Date Analyzed,Comments
+1.0,T29-AC69 ,Amoxicillin,Amoxicillin,Amoxicillin,,,34220.0,21/8/2018,
+2.0,T29-JNLB ,Amoxicillin,Amoxicillin,Amoxicillin,,,34232.0,21/8/2018,
+3.0,T29-NI8Y ,Amoxicillin,Amoxicillin,Amoxicillin,,,34221.0,21/8/2018,
+4.0,T29-WDUM ,Amoxicillin,Amoxicillin,Amoxicillin,,,34181.0,31/8/2018,
+5.0,T29-FX47 ,Amoxicillin,Amoxicillin,Amoxicillin,,,34170.0,3/9/2018,
+6.0,T29-0S56 ,Amoxicillin,Amoxicillin,Amoxicillin,,,34179.0,3/9/2018,
+7.0,T29-LW38 ,Amoxicillin,Amoxicillin,Amoxicillin,,,31778.0,12/9/2018,
+8.0,T29-SO8W ,Amoxicillin,Amoxicillin,Amoxicillin,,,34177.0,3/9/2018,
+9.0,T29-Z1I4 ,Amoxicillin,Amoxicillin,Amoxicillin,,,34168.0,3/9/2018,
+10.0,T29-JOZW ,Amoxicillin,Amoxicillin,Amoxicillin,,,34231.0,21/8/2018,
+11.0,T29-AHJY ,Amoxicillin,Amoxicillin,Amoxicillin,,,34180.0,31/8/2018,
+12.0,T29-KPMQ ,Amoxicillin,Amoxicillin,Suspicious,B,,34189.0,31/8/2018,
+13.0,T29-71EF ,Amoxicillin,Amoxicillin,Amoxicillin,,,34222.0,21/8/2018,
+14.0,T29-KQ74 ,Amoxicillin,Amoxicillin,Amoxicillin,,,31779.0,12/9/2018,
+15.0,T29-38XF ,Amoxicillin,Amoxicillin,Amoxicillin,,,34167.0,31/8/2018,
+16.0,T29-V7US ,Amoxicillin,Lactose,Suspicious,B,,34166.0,31/8/2018,
+17.0,T29-QH6Y ,Amoxicillin,Lactose,Suspicious,B,,34175.0,3/9/2018,
+18.0,T29-U1ZB ,Amoxicillin,Vitamin C,Suspicious,B,,34174.0,3/9/2018,
+19.0,T29-WKBJ ,Amoxicillin,Vitamin C,Suspicious,B,,34224.0,21/8/2018,"Lane B-yellow, Lane F-blue at top, Lane K-orange"
+20.0,T29-3ZOA ,Amoxicillin,Vitamin C,Suspicious,B,,34172.0,3/9/2018,
+21.0,T29-VD2E ,Amoxicillin,Vitamin C,Suspicious,B,,34173.0,3/9/2018,
+22.0,T29-ESOD ,Amoxicillin,Vitamin C,Suspicious,B,,34225.0,21/8/2018,"Lane B-yellow, Lane F-blue at top, Lane K-orange"
+23.0,T29-4K2G ,Amoxicillin,Vitamin C,Suspicious,B,,34226.0,21/8/2018,"Lane B-yellow, Lane F-blue at top, Lane K-orange"
+24.0,T29-LBT5 ,Amoxicillin,Starch,Suspicious,B,Yes,34230.0,21/8/2018,"Lane B-yellow, Lane F-blue at top, Lane K-orange"
+25.0,T29-KCXX ,Amoxicillin,Starch,Suspicious,B,Yes,34182.0,31/8/2018,
+26.0,T29-OTNL ,Amoxicillin,Starch,Suspicious,B,Yes,34219.0,21/8/2018,Lane J black
+27.0,T29-DE85 ,Amoxicillin,Cellulose,Suspicious,B,,34176.0,3/9/2018,
+28.0,T29-8IYD ,Amoxicillin,Cellulose,Suspicious,B,,34171.0,3/9/2018,
+29.0,T29-K3VC ,Amoxicillin,Cellulose,Suspicious,B,,34169.0,3/9/2018,
+30.0,T29-66YC ,Amoxicillin,Cellulose,Suspicious,B,,34223.0,21/8/2018,"Lane B-yellow, Lane F-blue at top, Lane K-orange"
+31.0,T29-FN3U ,Paracetamol,Paracetamol,Paracetamol,,,30299.0,4/9/2018,
+32.0,T29-WUNV ,Paracetamol,Paracetamol,Paracetamol,,,34002.0,20/8/2018,"Lane K brown, Lane L grey"
+33.0,T29-T38I ,Paracetamol,Paracetamol,Paracetamol,,,31832.0,12/9/2018,
+34.0,T29-5Q3Q ,Paracetamol,Paracetamol,Suspicious,K,,33991.0,20/8/2018,Lane K yellow
+35.0,T29-WY3H ,Paracetamol,Paracetamol,Paracetamol,,,31833.0,12/9/2018,
+36.0,T29-YT85 ,Paracetamol,Paracetamol,Paracetamol,,,33990.0,20/8/2018,"Lane K brown, Lane L grey"
+37.0,T29-LCO6 ,Paracetamol,Paracetamol,Paracetamol,,,34016.0,20/8/2018,"Lane K brown, Lane L grey"
+38.0,T29-WEWB ,Paracetamol,Paracetamol,Paracetamol,,,30302.0,4/9/2018,
+39.0,T29-3989 ,Paracetamol,Paracetamol,Paracetamol,,,30218.0,4/9/2018,
+40.0,T29-VRHS ,Paracetamol,Paracetamol,Paracetamol,,,30296.0,4/9/2018,
+41.0,T29-Q90U ,Paracetamol,Paracetamol,Paracetamol,,,30280.0,5/9/2018,
+42.0,T29-4V60 ,Paracetamol,Paracetamol,Paracetamol,,,30300.0,4/9/2018,
+43.0,T29-44ZW ,Paracetamol,Paracetamol,Paracetamol,,,33989.0,20/8/2018,"Lane K brown, Lane L grey"
+44.0,T29-VYTN ,Paracetamol,Paracetamol,Paracetamol,,,34000.0,20/8/2018,"Lane K brown, Lane L grey"
+45.0,T29-B8ID ,Paracetamol,Paracetamol,Paracetamol,,,30301.0,4/9/2018,
+46.0,T29-9KRL ,Paracetamol,Paracetamol,Paracetamol,,,34001.0,20/8/2018,"Lane K brown, Lane L grey"
+47.0,T29-Y7WF ,Paracetamol,Paracetamol,Paracetamol,,,34004.0,20/8/2018,"Lane K brown, Lane L grey"
+48.0,T29-DUUO ,Paracetamol,Cellulose,Paracetamol,,,37297.0,4/9/2018,
+49.0,T29-3RHM ,Paracetamol,Cellulose,Paracetamol,,,31776.0,12/9/2018,
+50.0,T29-UZWM ,Paracetamol,Cellulose,Paracetamol,,,30220.0,4/9/2018,
+51.0,T29-BL4D ,Paracetamol,Paracetamol Starch,Paracetamol Starch,,Yes,33998.0,20/8/2018,"Lane J black, Lane K brown, Lane L grey"
+52.0,T29-WCK3 ,Paracetamol,Paracetamol Starch,Paracetamol Starch,,Yes,30298.0,4/9/2018,
+53.0,T29-BNMM ,Paracetamol,Paracetamol Starch,Paracetamol Starch,,Yes,30303.0,4/9/2018,
+54.0,T29-FT0Z ,Paracetamol,Starch,Suspicious,K,Yes,33999.0,20/8/2018,"Lane J black, Lane K yellow"
+55.0,T29-Y8DJ ,Paracetamol,Starch,Paracetamol Starch,,Yes,33997.0,20/8/2018,"Lane J black, Lane K brown"
+56.0,T29-CJ9X ,Paracetamol,Starch,Paracetamol Starch,,Yes,33996.0,20/8/2018,"Lane J black, Lane K brown"
+57.0,T29-MUX6 ,Paracetamol,Vitamin C,Suspicious,K,,30221.0,5/9/2018,
+58.0,T29-Q3NK ,Paracetamol,Vitamin C,Paracetamol,,,30560.0,12/9/2018,
+59.0,T29-15L1 ,Paracetamol,Vitamin C,Suspicious,K,,30223.0,5/9/2018,
+60.0,T29-D0Y3 ,Paracetamol,Vitamin C,Suspicious,K,,34003.0,20/8/2018,Lane K orange (vitamin C present)
+61.0,T29-4ILS ,Benzyl Penicillin,Benzyl Penicillin,Benzyl Penicillin,,,30216.0,5/9/2018,
+62.0,T29-JI5H ,Benzyl Penicillin,Benzyl Penicillin,Benzyl Penicillin,,,30281.0,6/9/2018,
+63.0,T29-AZAP ,Benzyl Penicillin,Benzyl Penicillin,Benzyl Penicillin,,,30287.0,6/9/2018,
+64.0,T29-EB41 ,Benzyl Penicillin,Benzyl Penicillin,Benzyl Penicillin,,,30283.0,6/9/2018,
+65.0,T29-G6ZI ,Benzyl Penicillin,Benzyl Penicillin,Benzyl Penicillin,,,34235.0,21/8/2018,Lane F dark green
+66.0,T29-N29J ,Benzyl Penicillin,Benzyl Penicillin,Benzyl Penicillin,,,34239.0,21/8/2018,Lane F dark green
+67.0,T29-WZZR ,Benzyl Penicillin,Benzyl Penicillin,Benzyl Penicillin,,,30562.0,12/9/2018,
+68.0,T29-PI76 ,Benzyl Penicillin,Benzyl Penicillin,Suspicious,F,,33744.0,21/8/2018,
+69.0,T29-4S6Y ,Benzyl Penicillin,Benzyl Penicillin,Benzyl Penicillin,,,34012.0,21/8/2018,Lane F dark green
+70.0,T29-L68B ,Benzyl Penicillin,Benzyl Penicillin,Benzyl Penicillin,,,34011.0,21/8/2018,Lane F dark green
+71.0,T29-FIVV ,Benzyl Penicillin,Benzyl Penicillin,Benzyl Penicillin,,,30561.0,12/9/2018,
+72.0,T29-M6OD ,Benzyl Penicillin,Benzyl Penicillin,Benzyl Penicillin,,,30282.0,6/9/2018,
+73.0,T29-LWM8 ,Benzyl Penicillin,Benzyl Penicillin,Benzyl Penicillin,,,30273.0,6/9/2018,
+74.0,T29-CC5R ,Benzyl Penicillin,Benzyl Penicillin,Benzyl Penicillin,,,33747.0,21/8/2018,Lane F dark green
+75.0,T29-MDXE ,Benzyl Penicillin,Benzyl Penicillin,Benzyl Penicillin,,,30272.0,6/9/2018,
+76.0,T29-QASG ,Benzyl Penicillin,Starch,Suspicious,F,Yes,33745.0,21/8/2018,"Lane F light green, Lane J black"
+77.0,T29-WF3F ,Benzyl Penicillin,Starch,Suspicious,F,Yes,30286.0,6/9/2018,
+78.0,T29-ED85 ,Benzyl Penicillin,Starch,Suspicious,F,Yes,30222.0,6/9/2018,
+79.0,T29-ZHVS ,Benzyl Penicillin,Starch,Suspicious,F,Yes,34236.0,21/8/2018,"Lane F light green, Lane J black"
+80.0,T29-SMLU ,Benzyl Penicillin,Lactose,Suspicious,F,,34238.0,21/8/2018,Lane F pale green
+81.0,T29-NAH4 ,Benzyl Penicillin,Lactose,Suspicious,F,,30217.0,5/9/2018,
+82.0,T29-JVCQ ,Benzyl Penicillin,Cellulose,Suspicious,F,,34227.0,21/8/2018,Lane F pale green
+83.0,T29-9IRN ,Benzyl Penicillin,Vitamin C,Suspicious,F,,31777.0,12/9/2018,
+84.0,T29-6US6 ,Benzyl Penicillin,Vitamin C,Suspicious,F,,34229.0,21/8/2018,Lane F yellow and green at the top
+85.0,T29-OM5S ,Benzyl Penicillin,Vitamin C,Suspicious,F,,34233.0,21/8/2018,Lane F yellow and green at the top
+86.0,T29-9PI2 ,Benzyl Penicillin,Vitamin C,Suspicious,F,,31834.0,6/9/2018,
+87.0,T29-IDD6 ,Benzyl Penicillin,Vitamin C,Suspicious,F,,30284.0,6/9/2018,
+88.0,T29-7NOV ,Benzyl Penicillin,Vitamin C,Suspicious,F,,30285.0,6/9/2018,
+89.0,T29-B20A ,Benzyl Penicillin,Vitamin C,Suspicious,F,,31835.0,6/9/2018,
+90.0,T29-CE9L ,Benzyl Penicillin,Penicillin Procaine,Suspicious,F,,33746.0,21/8/2018,"Lane F pale green, Lane D blue"
+91.0,T29-49ST ,Penicillin Procaine,Penicillin Procaine,Suspicious,,,34186.0,31/8/2018,
+92.0,T29-HLED ,Penicillin Procaine,Penicillin Procaine,Penicillin Procaine,,,29927.0,20/9/2018,
+93.0,T29-8BJE ,Penicillin Procaine,Penicillin Procaine,Penicillin Procaine,,,34234.0,21/8/2018,
+94.0,T29-IBGV ,Penicillin Procaine,Penicillin Procaine,Penicillin Procaine,,,29768.0,18/9/2018,
+95.0,T29-4C8R ,Penicillin Procaine,Penicillin Procaine,Penicillin Procaine,,,29769.0,18/9/2018,
+96.0,T29-HUFG ,Penicillin Procaine,Penicillin Procaine,Penicillin Procaine,,,35522.0,18/9/2018,
+97.0,T29-CFV0 ,Penicillin Procaine,Penicillin Procaine,Penicillin Procaine,,,34228.0,21/8/2018,
+98.0,T29-IGF9 ,Penicillin Procaine,Penicillin Procaine,Penicillin Procaine,,,29875.0,20/9/2018,
+99.0,T29-T763 ,Penicillin Procaine,Penicillin Procaine,Penicillin Procaine,,,35520.0,18/9/2018,
+100.0,T29-D6F2 ,Penicillin Procaine,Penicillin Procaine,Penicillin Procaine,,,35504.0,20/9/2018,
+101.0,T29-UK0F ,Penicillin Procaine,Penicillin Procaine,Suspicious,,,34185.0,31/8/2018,
+102.0,T29-GTAK ,Penicillin Procaine,Penicillin Procaine,Penicillin Procaine,,,34183.0,31/8/2018,
+103.0,T29-R2AR ,Penicillin Procaine,Penicillin Procaine,Penicillin Procaine,,,35521.0,18/9/2018,
+104.0,T29-IJPF ,Penicillin Procaine,Penicillin Procaine,Penicillin Procaine,,,35527.0,18/9/2018,
+105.0,T29-RDSN ,Penicillin Procaine,Penicillin Procaine,Penicillin Procaine,,,35526.0,18/9/2018,
+106.0,T29-AFL0 ,Penicillin Procaine,Penicillin Procaine,Penicillin Procaine,,,35508.0,20/9/2018,
+107.0,T29-6Y10 ,Penicillin Procaine,Benzyl Penicillin,Suspicious,D,,2972.0,18/9/2018,
+108.0,T29-CGMZ ,Penicillin Procaine,Vitamin C,Suspicious,D,,35511.0,20/9/2018,
+109.0,T29-SG3O ,Penicillin Procaine,Vitamin C,Suspicious,D,,35507.0,20/9/2018,
+110.0,T29-48U3 ,Penicillin Procaine,Vitamin C,Suspicious,D,,35505.0,20/9/2018,
+111.0,T29-XLDZ ,Penicillin Procaine,Vitamin C,Suspicious,D,,35524.0,20/9/2018,
+112.0,T29-C9BD ,Penicillin Procaine,Vitamin C,Suspicious,D,,31676.0,20/9/2018,
+113.0,T29-7J16 ,Penicillin Procaine,Vitamin C,Suspicious,D,,31674.0,20/9/2018,
+114.0,T29-V2V7 ,Penicillin Procaine,Starch,Suspicious,D,,35510.0,20/9/2018,
+115.0,T29-ZEXI ,Penicillin Procaine,Starch,Suspicious,D,,29773.0,18/9/2018,
+116.0,T29-KNM5 ,Penicillin Procaine,Starch,Suspicious,D,,35523.0,18/9/2018,
+117.0,T29-1FXN ,Penicillin Procaine,Lactose,Suspicious,D,,35509.0,20/9/2018,
+118.0,T29-90UJ ,Penicillin Procaine,Cellulose,Suspicious,D,,35525.0,20/9/2018,
+119.0,T29-4FGP ,Penicillin Procaine,Cellulose,Suspicious,D,,34237.0,21/8/2018,"Lane D pink, Lane E pink, Lane F blue"
+120.0,T29-JHBK ,Penicillin Procaine,Cellulose,Suspicious,D,,35506.0,20/9/2018,
+121.0,T29-C7UX ,Quinine ,Quinine ,Quinine,,,31852.0,14/9/2018,
+122.0,T29-KTUT ,Quinine ,Quinine ,Quinine,,,34008.0,20/8/2018,Lane D pink with blue at the bottom
+123.0,T29-CABW ,Quinine ,Quinine ,Quinine,,,34188.0,31/8/2018,
+124.0,T29-D4SH ,Quinine ,Quinine ,Quinine,,,34005.0,20/8/2018,Lane D pink with blue at the bottom
+125.0,T29-399G ,Quinine ,Quinine ,Quinine,,,34007.0,20/8/2018,Lane D pink with blue at the bottom
+126.0,T29-7JKT ,Quinine ,Quinine ,Quinine,,,30567.0,14/9/2018,
+127.0,T29-OOE0 ,Quinine ,Quinine ,Quinine,,,34006.0,20/8/2018,Lane D pink with blue at the bottom
+128.0,T29-LZ4Z ,Quinine ,Quinine ,Quinine,,,34187.0,31/8/2018,
+129.0,T29-ABSH ,Quinine ,Quinine ,Quinine,,,34013.0,20/8/2018,Lane D pink with blue at the bottom
+130.0,T29-GK3N ,Quinine ,Quinine ,Quinine,,,31849.0,14/9/2018,
+131.0,T29-ORL9 ,Quinine ,Quinine ,Quinine,,,34017.0,20/8/2018,Lane D pink with blue at the bottom
+132.0,T29-WPQ4 ,Quinine ,Quinine ,Quinine,,,31855.0,14/9/2018,
+133.0,T29-DJNO ,Quinine ,Quinine ,Quinine,,,31850.0,14/9/2018,
+134.0,T29-Z80J ,Quinine ,Quinine ,Quinine,,,34014.0,20/8/2018,Lane D pink with blue at the bottom
+135.0,T29-KGZP ,Quinine ,Quinine ,Quinine,,,31839.0,14/9/2018,
+136.0,T29-E2VJ ,Quinine ,Quinine ,Quinine,,,31851.0,14/9/2018,
+137.0,T29-IB13 ,Quinine ,Starch,Suspicious,D,Yes,30566.0,14/9/2018,
+138.0,T29-HIGL ,Quinine ,Starch,Suspicious,D,Yes,30564.0,14/9/2018,
+139.0,T29-T3RY ,Quinine ,Starch,Suspicious,D,Yes,30563.0,14/9/2018,
+140.0,T29-W32N ,Quinine ,Lactose,Suspicious,D,,31848.0,14/9/2018,
+141.0,T29-10FT ,Quinine ,Lactose,Suspicious,D,,30565.0,14/9/2018,
+142.0,T29-GSWI ,Quinine ,Vitamin C,Suspicious,D,,34184.0,31/8/2018,
+143.0,T29-HX42 ,Quinine ,Vitamin C,Suspicious,D,,31853.0,14/9/2018,
+144.0,T29-OGV5 ,Quinine ,Vitamin C,Suspicious,D,,29925.0,14/9/2018,
+145.0,T29-Z2IO ,Quinine ,Vitamin C,Suspicious,D,,29924.0,14/9/2018,
+146.0,T29-CU4P ,Quinine ,Vitamin C,Suspicious,D,,31854.0,14/9/2018,
+147.0,T29-KJKR ,Quinine ,Vitamin C,Suspicious,D,,29926.0,14/9/2018,
+148.0,T29-BGVV ,Quinine ,Vitamin C,Suspicious,D,,34164.0,20/8/2018,Lane D pink
+149.0,T29-J2HR ,Quinine ,Cellulose,Suspicious,D,,34163.0,20/8/2018,Lane D pink
+150.0,T29-ZMMR ,Quinine ,Cellulose,Suspicious,D,,34165.0,20/8/2018,Lane D pink
+,,,,,,,,Cells with info,
+,,,,,,,,150,

@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# External repositories (downloaded by setup scripts)
+pad-ml-workflow-v2/
+FHI360_Lite.wiki/
+
+
+.claude/
+CLAUDE.md
