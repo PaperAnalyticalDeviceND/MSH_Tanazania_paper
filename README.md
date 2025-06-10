@@ -18,6 +18,7 @@ Analysis of MSH Tanzania PAD (Paper Analytical Device) drug testing data.
 ## Project Structure
 
 - `data/` - Contains MSH Tanzania reads CSV files
+   - MSHTanzaniaReads.csv - Expert reader SB evaluated each of these images to identify the PAD results   
 - `notebooks/` - Jupyter notebooks for analysis
 - `docs/` - Documentation files
   - `MHS‐Tanzania-NN-Results.md` - Neural network model results and performance metrics
